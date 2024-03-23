@@ -1,0 +1,16 @@
+{
+  "name": "multi_lang_file_sync_tool",
+  "version": "1.0.0",
+  "main": "dashboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
